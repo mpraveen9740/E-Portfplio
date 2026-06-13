@@ -1,5 +1,5 @@
 /* ==========================================
-   E-Portfolio Javascript Logic - Praveen Patil
+   E-Portfolio Javascript Logic - M Praveen
    ========================================== */
 
 document.addEventListener("DOMContentLoaded", () => {

@@ -1,4 +1,4 @@
-# E-Portfolio - Praveen Patil
+# E-Portfolio - M Praveen
 
 A modern, professional, and interactive E-Portfolio website for a Computer Science Engineering student, AI/ML enthusiast, and Python Developer.
 
